@@ -1,0 +1,22 @@
+{
+  "servers": {
+    "shadcn": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "shadcn@canary",
+        "registry:mcp"
+      ],
+      "env": {
+        "REGISTRY_URL": "https://blok-shadcn.vercel.app/r/registry.json"
+      }
+    },
+    "Sitecore Documentation": {
+      "url": "https://doc.sitecore.com/mcp",
+      "headers": {
+        "User-Agent": "sitecore-mcp-client/1.0"
+        }   
+    }
+  }
+}
