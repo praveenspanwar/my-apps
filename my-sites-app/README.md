@@ -1,4 +1,4 @@
-# Sitecore Sites Manager
+# Site-Ops Studio
 
 A Sitecore Marketplace app built with Next.js that allows creating and managing XM Cloud sites. The app appears full screen in XMC – Portfolio (Sites) and leverages the XM Cloud Sites REST API.
 
